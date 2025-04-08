@@ -1,6 +1,6 @@
 # FHIRSheets
 
-FhirSheetsiIs a command-line tool that reads an Excel file in FHIR cohort format and generates FHIR bundle JSON files from it. Each row in the template Excel file is used to create an individual JSON file, outputting them to a specified folder.
+FhirSheetsi is a command-line tool that reads an Excel file in FHIR cohort format and generates FHIR bundle JSON files from it. Each row in the template Excel file is used to create an individual JSON file, outputting them to a specified folder.
 
 ## Table of Contents
 - [FHIRSheets](#fhirsheets)
