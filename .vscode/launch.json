@@ -59,6 +59,76 @@
                 "--output_folder",
                 "C:\\Users\\mriley7\\workspace\\T21_Connectathon_Sets\\Fhir_CohortPython_Generation\\output"
             ]
+        },
+        {
+            "name": "Python Debugger: CMV",
+            "type": "debugpy",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "program": "src\\main.py",
+            "console": "integratedTerminal",
+            "args": [
+                "--input_file",
+                "C:\\Users\\mriley7\\workspace\\T21_Connectathon_Sets\\Fhir_CohortPython_Generation\\src\\resources\\CMV_Fhir_Cohort_Import_Template.xlsx",
+                "--output_folder",
+                "C:\\Users\\mriley7\\workspace\\T21_Connectathon_Sets\\Fhir_CohortPython_Generation\\output"
+            ]
+        },
+        {
+            "name": "Python Debugger: Down's Syndrome",
+            "type": "debugpy",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "program": "src\\main.py",
+            "console": "integratedTerminal",
+            "args": [
+                "--input_file",
+                "C:\\Users\\mriley7\\workspace\\T21_Connectathon_Sets\\Fhir_CohortPython_Generation\\src\\resources\\Downs_Syndrome_Fhir_Cohort_Import_Template.xlsx",
+                "--output_folder",
+                "C:\\Users\\mriley7\\workspace\\T21_Connectathon_Sets\\Fhir_CohortPython_Generation\\output"
+            ]
+        },
+        {
+            "name": "Python Debugger: Congenital Hyperthyrodism",
+            "type": "debugpy",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "program": "src\\main.py",
+            "console": "integratedTerminal",
+            "args": [
+                "--input_file",
+                "C:\\Users\\mriley7\\workspace\\T21_Connectathon_Sets\\Fhir_CohortPython_Generation\\src\\resources\\Congenital_Hyperthyrodism_Fhir_Cohort_Import_Template.xlsx",
+                "--output_folder",
+                "C:\\Users\\mriley7\\workspace\\T21_Connectathon_Sets\\Fhir_CohortPython_Generation\\output"
+            ]
+        },
+        {
+            "name": "Python Debugger: Spina Bifida",
+            "type": "debugpy",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "program": "src\\main.py",
+            "console": "integratedTerminal",
+            "args": [
+                "--input_file",
+                "C:\\Users\\mriley7\\workspace\\T21_Connectathon_Sets\\Fhir_CohortPython_Generation\\src\\resources\\Spina_Bifida_Fhir_Cohort_Import_Template.xlsx",
+                "--output_folder",
+                "C:\\Users\\mriley7\\workspace\\T21_Connectathon_Sets\\Fhir_CohortPython_Generation\\output"
+            ]
+        },
+        {
+            "name": "Python Debugger: Tricuspid Valve Atresia",
+            "type": "debugpy",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "program": "src\\main.py",
+            "console": "integratedTerminal",
+            "args": [
+                "--input_file",
+                "C:\\Users\\mriley7\\workspace\\T21_Connectathon_Sets\\Fhir_CohortPython_Generation\\src\\resources\\Tricuspid_Valve_Atresia_Fhir_Cohort_Import_Template.xlsx",
+                "--output_folder",
+                "C:\\Users\\mriley7\\workspace\\T21_Connectathon_Sets\\Fhir_CohortPython_Generation\\output"
+            ]
         }
     ]
 }
